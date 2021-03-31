@@ -146,14 +146,6 @@ namespace Prueba
         public string recorredeapoyo()
         {
 
-            /*actual = primero;
-            int contador = 0;
-            while (actual != null)
-            {
-                contador++;
-                actual = actual.siguiente;
-            }*/
-
             actual = primero;
             string nuevaLista = "";
 
