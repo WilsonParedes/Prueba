@@ -20,7 +20,7 @@ namespace Prueba
             Metodos.listaVersiones.agregarVersion(new Persona { VersiónNo = "3", Fecha = "22/03/2021", Usuario_Creador = "azacarias", Contenido = "Hola a todos" });
             Metodos.listaVersiones.agregarVersion(new Persona { VersiónNo = "4", Fecha = "24/03/2021", Usuario_Creador = "wparedes", Contenido = "Hola a todos que tal" });
          
-          
+           /*prueba*/
             /*Almacena la List<Persona>*/
             var ListaVersiones = Metodos.listaVersiones;
             Metodos.listaVersiones.recorre();
